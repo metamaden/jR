@@ -2,7 +2,7 @@
 Fun with image decomposition analysis in R!
 
 # Wait but why
-Image decomposition can be insightful, practical, but mostly fun. JuicyimgR is meant to provide the core functionality of an image decomposition pipeline, to be implemented in various ways (see TODO below for some of my own ideas).
+Image decomposition can be insightful, practical, but mostly fun. JuicyimgR is meant to provide the core functionality of an image decomposition pipeline, to be implemented in various ways (see TODO below for some of my own ideas). DISCLAIMER: I do not perform routine image analysis by trade, and as such this is not intended as a formal introduction to the concepts of image decomposition, but rather as a casual introduction and overview to practical strategies for implementing image decomposition for entertainment. See the list of links at the bottom for great further reading! 
 
 # Illustrative example
 There has almost always, but especially recently, been high interest in image decomposition problems. In a way this topic has been around at least as long as graphics interfaces have been capable of viewing, saving, and compressing image files.
