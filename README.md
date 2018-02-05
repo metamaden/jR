@@ -12,8 +12,11 @@ Lately there is a widespread interest in decomposition as a means of getting at 
 ## Looking at the problem more 'closely'
 Since I have been interested in automating this process from the get-go, this example details a script that scrapes an image from a Google image search, all without leaving the comfort of the R session!
 
-Leaning on the experience and talents of a real-life artist, we scrape the top image of a painting by Chuck Close using "Chuck_Close" in our image search.
+We will leverage the talent and experience of a real-life artist in this analysis. After loading out dependancies, we scrape the top Google image search result of a painting by Chuck Close using "Chuck_Close" as our search term.
 ```
+# Dependancies
+library(imager); library(fpc); library(scales); library(dplyr);
+
 # google image search, save html result
 # first specify search term, then paste into boiler plate url
 searchterm <- "Chuck_Close"
