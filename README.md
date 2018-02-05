@@ -67,7 +67,7 @@ dev.off()
 ```
 This generates the following:
 
-[chuck_close](chuck_close.jpeg)
+![alt text](https://github.com/metamaden/juicyimgR/blob/master/chuck_close.jpg "composite for 'Chuck_Close' analysis")
 
 Ta-da! 
 
