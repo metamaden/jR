@@ -1,7 +1,7 @@
-# juicyimgR
-Fun with image decomposition analysis in R!
+# jR
+This is summary of how to extract a digital palette from an image scraped from Google images.
 
-# Wait but why
+# Why digital palletes
 Image decomposition can be insightful, practical, but mostly fun. JuicyimgR is meant to provide the core functionality of an image decomposition pipeline, to be implemented in various ways (see TODO below for some of my own ideas). DISCLAIMER: I do not perform routine image analysis by trade, and as such this is not intended as a formal introduction to the concepts of image decomposition, but rather as a casual introduction and overview to practical strategies for implementing image decomposition for entertainment. See the list of links at the bottom for great further reading! 
 
 # Illustrative example
